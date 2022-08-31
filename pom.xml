@@ -41,7 +41,6 @@
         <gitHubRepo>jenkinsci/typetalk-plugin</gitHubRepo>
         <changelist>999999-SNAPSHOT</changelist>
         <jenkins.version>2.303.3</jenkins.version>
-        <java.level>8</java.level>
         <useBeta>true</useBeta>
         <gitHubRepo>jenkinsci/${project.artifactId}-plugin</gitHubRepo>
         <hpi.compatibleSinceVersion>2.40</hpi.compatibleSinceVersion>
